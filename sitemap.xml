@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>https://maxb2.github.io/food/archive.html</loc>
-  <lastmod>2022-03-06T19:48:00Z</lastmod>
+  <lastmod>2022-03-06T19:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://maxb2.github.io/food/authors/</loc>
@@ -152,6 +152,10 @@
  <url>
   <loc>https://maxb2.github.io/food/pages/theming/</loc>
   <lastmod>2022-03-06T17:54:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://maxb2.github.io/food/posts/deploy-test-2/</loc>
+  <lastmod>2022-03-06T19:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://maxb2.github.io/food/posts/deploy-test/</loc>

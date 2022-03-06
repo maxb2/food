@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://maxb2.github.io/food/authors/matt-anderson.xml</loc>
-  <lastmod>2022-03-06T19:48:00Z</lastmod>
+  <lastmod>2022-03-06T19:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/authors/roberto-alsina.xml</loc>
@@ -63,10 +63,10 @@
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/rss.xml</loc>
-  <lastmod>2022-03-06T19:48:00Z</lastmod>
+  <lastmod>2022-03-06T19:53:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/sitemap.xml</loc>
-  <lastmod>2022-03-06T19:48:00Z</lastmod>
+  <lastmod>2022-03-06T19:53:00Z</lastmod>
  </sitemap>
 </sitemapindex>
