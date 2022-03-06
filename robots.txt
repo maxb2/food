@@ -1,0 +1,4 @@
+Sitemap: https://maxb2.github.io/food/sitemapindex.xml
+
+User-Agent: *
+Host: maxb2.github.io
