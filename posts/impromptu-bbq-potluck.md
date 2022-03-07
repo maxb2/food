@@ -4,7 +4,7 @@ date: 2022-03-06 12:58:05 UTC-06:00
 description: ''
 link: ''
 slug: impromptu-bbq-potluck
-tags: [bbq, barbeque, potluck, americana, side-dish]
+tags: [BBQ, barbeque, potluck, Americana, side-dish]
 title: Impromptu BBQ Potluck
 type: text
 ---
