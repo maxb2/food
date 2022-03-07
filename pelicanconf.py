@@ -1,6 +1,6 @@
 AUTHOR = 'Matt Anderson'
 SITENAME = 'Food'
-SITEURL = ''
+SITEURL = 'https://maxb2.github.io/food'
 
 PATH = 'content'
 
