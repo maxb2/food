@@ -7,70 +7,82 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/americana.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/barbeque.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/bbq.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/chicken.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://maxb2.github.io/food/categories/chili.xml</loc>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/coleslaw.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/condiment.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://maxb2.github.io/food/categories/crisp.xml</loc>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://maxb2.github.io/food/categories/gift.xml</loc>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/katsu.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/mediterranean.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/potluck.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/rice.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/salad.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/sandwich.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/side-dish.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/spicy.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/categories/tzatziki.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/rss.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://maxb2.github.io/food/sitemap.xml</loc>
-  <lastmod>2022-03-10T04:21:00Z</lastmod>
+  <lastmod>2022-03-19T15:16:00Z</lastmod>
  </sitemap>
 </sitemapindex>
