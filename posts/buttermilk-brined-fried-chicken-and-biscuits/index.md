@@ -18,7 +18,7 @@ We ended up with a couple tenderloin nuggets because of this.
 
 I also made [yogurt biscuits](https://www.seriouseats.com/light-and-fluffy-biscuit-recipe) with the leftover buttermilk.
 Ironically, this recipe was originally developed to replace buttermilk with yogurt.
-My biscuits came out a bit dense. I imagine that the PH balance was off due to the buttermilk which affected the rise.
+My biscuits came out a bit dense. I imagine that the pH balance was off due to the buttermilk which affected the rise.
 
 The chicken was pretty good, but we found that the second fry didn't add much more value for the extra time and effort.
 It's only worth it if you are obsessed with crispiness.
