@@ -28,7 +28,7 @@ I think it's quite a good combination.
 The texture is perfect as well, and I was really glad that I could avoid the commercial pectin.
 
 
-Eating jam by itself is a bit crazy so I combined it with my favorite way to make cheesecake, [sous-vide](https://www.foodnetwork.com/recipes/alton-brown/ic-mini-cheesecakes-7297817).
+Eating jam by itself is a bit crazy so I combined it with my favorite way to make cheesecake, [Immersion Circulator Mini Cheesecakes](https://www.foodnetwork.com/recipes/alton-brown/ic-mini-cheesecakes-7297817).
 The method produces perfectly portioned little mason jars of very light, airy cheesecake.
 I don't make the Graham cracker crumble in the recipe, instead using the crackers to scoop the cheesecake out of the jars.
 It's less work and more fun.
