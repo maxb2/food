@@ -4,7 +4,7 @@ date: 2022-05-15 13:06:15 UTC-05:00
 description: ''
 link: ''
 slug: spinach-and-feta-galette
-tags: ''
+tags: [spinach, feta, pie, galette, pizza, herbs, tarragon, youtube, tzatziki]
 title: Spinach and Feta Galette
 type: text
 ---
@@ -17,7 +17,7 @@ The real star of the show was the filling.
 Helen's suggestion to use all sorts of herbs really improves on the standard spinach pie formula.
 Spinach and feta alone, while it provides a nice earthiness, is too one note for me.
 So, the extra accents that the herbs provided are crucial.
-I added parsley, green onions, and a dash of dried taragon.
+I added parsley, green onions, and a dash of dried tarragon.
 I couldn't get fresh dill on short notice, but I would have loved to add that as well.
 I also coerced my roommate into making his favorite [tzatziki](https://www.youtube.com/watch?v=OOkL5d8t1sM) to contribute to the meal.
 
