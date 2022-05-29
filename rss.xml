@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Food</title><link>https://maxb2.github.io/food/</link><description>A food blog.</description><atom:link href="https://maxb2.github.io/food/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:matt@manderscience.com"&gt;Matt Anderson&lt;/a&gt; </copyright><lastBuildDate>Sun, 15 May 2022 20:36:48 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Spinach and Feta Galette</title><link>https://maxb2.github.io/food/posts/spinach-and-feta-galette/</link><dc:creator>Matt Anderson</dc:creator><description>&lt;p&gt;I recently saw a video by a new-to-me food youtuber, &lt;a href="https://www.youtube.com/channel/UCdTLhjAGVI_XDAuXrobtI6Q"&gt;Helen Rennie&lt;/a&gt;, for a &lt;a href="https://www.youtube.com/watch?v=YJn1jBlC2w8"&gt;Spinach and Feta Pie with Pizza Dough&lt;/a&gt;.
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Food</title><link>https://maxb2.github.io/food/</link><description>A food blog.</description><atom:link href="https://maxb2.github.io/food/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:matt@manderscience.com"&gt;Matt Anderson&lt;/a&gt; </copyright><lastBuildDate>Sun, 29 May 2022 02:29:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Korean Cheese Corn</title><link>https://maxb2.github.io/food/posts/korean-cheese-corn/</link><dc:creator>Matt Anderson</dc:creator><description>&lt;p&gt;I had a lot of leftover frozen corn, so I made &lt;a href="https://www.seriouseats.com/korean-corn-cheese-5196495"&gt;Korean Cheese Corn&lt;/a&gt;.
+I didn't have doenjang, so I replaced it with white miso and a little gochujang.
+It's decent, but I didn't like it as the main course. 
+It would probably be much better with lots of beer and other appetizers like the article says.&lt;/p&gt;</description><category>appetizer</category><category>bar</category><category>cheese</category><category>corn</category><category>gochujang</category><category>korean</category><category>miso</category><guid>https://maxb2.github.io/food/posts/korean-cheese-corn/</guid><pubDate>Tue, 24 May 2022 00:44:12 GMT</pubDate></item><item><title>Chicory Chocolate Banana Cake</title><link>https://maxb2.github.io/food/posts/chicory-chocolate-banana-cake/</link><dc:creator>Matt Anderson</dc:creator><description>&lt;p&gt;I bought some chicory root online to explore some new tea blends and coffee alternative.
+However, I bought far too much for just some experiments.
+As usual, I searched around for some recipes to use more of it.
+I decided to make &lt;a href="https://www.seriouseats.com/new-orleans-snack-cake"&gt;chicory chocolate banana cake&lt;/a&gt;.
+It's definitely a bit odd, but turned out very good after sitting for a couple days.
+I'd describe it as a coffee banana brownie.&lt;/p&gt;</description><category>banana</category><category>cake</category><category>chicory</category><category>chocolate</category><category>coffee</category><guid>https://maxb2.github.io/food/posts/chicory-chocolate-banana-cake/</guid><pubDate>Tue, 24 May 2022 00:43:53 GMT</pubDate></item><item><title>Spinach and Feta Galette</title><link>https://maxb2.github.io/food/posts/spinach-and-feta-galette/</link><dc:creator>Matt Anderson</dc:creator><description>&lt;p&gt;I recently saw a video by a new-to-me food youtuber, &lt;a href="https://www.youtube.com/channel/UCdTLhjAGVI_XDAuXrobtI6Q"&gt;Helen Rennie&lt;/a&gt;, for a &lt;a href="https://www.youtube.com/watch?v=YJn1jBlC2w8"&gt;Spinach and Feta Pie with Pizza Dough&lt;/a&gt;.
 I really liked the idea of making a &lt;a href="https://en.wikipedia.org/wiki/Galette"&gt;galette&lt;/a&gt; (laziest/best way to make pie) with a no-knead pizza dough rather than a fiddly pie dough.
 You mix up a pizza dough until it just comes together and then let it cold ferment 1-4 days in the fridge to develop gluten and flavor.
 The process makes the dough extremely easy to shape later on.&lt;/p&gt;
@@ -100,48 +108,4 @@ We ended up with a couple tenderloin nuggets because of this.&lt;/p&gt;
 Ironically, this recipe was originally developed to replace buttermilk with yogurt.
 My biscuits came out a bit dense. I imagine that the pH balance was off due to the buttermilk which affected the rise.&lt;/p&gt;
 &lt;p&gt;The chicken was pretty good, but we found that the second fry didn't add much more value for the extra time and effort.
-It's only worth it if you are obsessed with crispiness.&lt;/p&gt;</description><category>biscuits</category><category>buttermilk</category><category>chicken</category><category>fried</category><guid>https://maxb2.github.io/food/posts/buttermilk-brined-fried-chicken-and-biscuits/</guid><pubDate>Sun, 03 Apr 2022 19:38:26 GMT</pubDate></item><item><title>Spicy Chili Crisp Gifts</title><link>https://maxb2.github.io/food/posts/spicy-chili-crisp-gifts/</link><dc:creator>Matt Anderson</dc:creator><description>&lt;p&gt;I'm visiting my family this weekend. 
-I made a couple gifts for some of them and I felt like I needed to make enough for all of them.
-I've also been obsessed with the &lt;a href="https://www.seriouseats.com/homemade-spicy-chili-crisp"&gt;chili crisp recipe&lt;/a&gt; by &lt;a href="https://www.youtube.com/watch?v=GezQyVRQRzU"&gt;Sohla El-Waylly&lt;/a&gt; during her time at Serious Eats.
-It's a wonderful combination of fried shallots and garlic for crunch, dried chilis for heat, and Asian spices (most notably Szechuan peppercorns) for aroma.
-I've been trading it with my friends for some of their food products, such as ground deer meat and homemade &lt;a href="https://www.youtube.com/watch?v=X3DUkE6cgUg"&gt;Dongo&lt;/a&gt;.
-So, I thought sharing my obsession would be the perfect gift for the rest of my family. &lt;/p&gt;
-&lt;p&gt;Unfortunately, I didn't start the process until 8PM which was a poor decision. 
-I finished cooking and cleaning around midnight.
-I would highly recommend getting others to help make this recipe.
-In fact, make it a party, make a big batch, and send everyone home with their own.
-Deseeding the chilis takes the most time.
-The Arbol chilis in particular are the most annoying due to their small size and large quantity.
-Frying the shallots also takes some time and practice.
-It requires constant stirring and attention because they soggy to crisp in less than a minute. 
-I like to stir with chopsticks as the shallots don't attach to them very much.
-The rest of the process is pretty straightforward.&lt;/p&gt;
-&lt;p&gt;I've been actively searching for something that this &lt;em&gt;doesn't&lt;/em&gt; work well with and so far, I've come up empty.
-Here is a categorization of things I've tried the chili crisp with:&lt;/p&gt;
-&lt;h4&gt;Great&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;By the spoonful&lt;/li&gt;
-&lt;li&gt;Pizza&lt;/li&gt;
-&lt;li&gt;Eggs&lt;/li&gt;
-&lt;li&gt;Avocado toast&lt;/li&gt;
-&lt;li&gt;Pasta sauce (a la aglio e olio)&lt;/li&gt;
-&lt;li&gt;Chicken salad wraps/sandwiches&lt;/li&gt;
-&lt;li&gt;Cookies&lt;/li&gt;
-&lt;li&gt;Caramel Girl Scout cookies&lt;/li&gt;
-&lt;li&gt;Oatmeal Creampie&lt;/li&gt;
-&lt;li&gt;Vanilla ice cream&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Okay&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Coffee&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4&gt;Bad&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;Nothing yet!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;I'll keep updating this list as I try new things.&lt;/p&gt;</description><category>chili</category><category>crisp</category><category>gift</category><category>spicy</category><guid>https://maxb2.github.io/food/posts/spicy-chili-crisp-gifts/</guid><pubDate>Sat, 19 Mar 2022 14:37:39 GMT</pubDate></item><item><title>Halal Cart-Style Chicken and Tzatziki</title><link>https://maxb2.github.io/food/posts/halal-cart-style-chicken-and-tzatziki/</link><dc:creator>Matt Anderson</dc:creator><description>&lt;p&gt;My roommate has a favorite &lt;a href="https://www.youtube.com/watch?v=OOkL5d8t1sM"&gt;tzatziki recipe&lt;/a&gt; he likes to make.
-When he told me he was going to make that and nothing else, I decided to help him round out the meal. 
-I made the chicken and rice from Serious Eats' &lt;a href="https://www.seriouseats.com/serious-eats-halal-cart-style-chicken-and-rice-white-sauce-recipe"&gt;Halal Cart-Style Chicken and Rice with White Sauce&lt;/a&gt; and a &lt;a href="https://www.themediterraneandish.com/tabouli-salad/"&gt;Tabouli salad&lt;/a&gt;.
-I made the rice with some homemade chicken stock as well.
-May favorite part of the meal is the chicken. 
-The marinade is really excellent!&lt;/p&gt;</description><category>chicken</category><category>condiment</category><category>mediterranean</category><category>rice</category><category>salad</category><category>tzatziki</category><guid>https://maxb2.github.io/food/posts/halal-cart-style-chicken-and-tzatziki/</guid><pubDate>Wed, 09 Mar 2022 18:17:18 GMT</pubDate></item></channel></rss>
+It's only worth it if you are obsessed with crispiness.&lt;/p&gt;</description><category>biscuits</category><category>buttermilk</category><category>chicken</category><category>fried</category><guid>https://maxb2.github.io/food/posts/buttermilk-brined-fried-chicken-and-biscuits/</guid><pubDate>Sun, 03 Apr 2022 19:38:26 GMT</pubDate></item></channel></rss>
