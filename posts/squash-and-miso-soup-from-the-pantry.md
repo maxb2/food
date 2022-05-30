@@ -4,7 +4,7 @@ date: 2022-05-06 13:05:07 UTC-05:00
 description: ''
 link: ''
 slug: squash-and-miso-soup-from-the-pantry
-tags: [squash, acorn, miso, stock, dashi, apple, pantry, bonito, katsuobushi, fumet, fish, soup]
+tags: [squash, acorn, miso, stock, dashi, apple, pantry, bonito, katsuobushi, fumet, fish, soup, pantry-raid, seriouseats]
 title: Squash and Miso Soup From the Pantry
 type: text
 ---

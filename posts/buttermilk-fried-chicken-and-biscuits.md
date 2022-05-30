@@ -4,11 +4,14 @@ date: 2022-04-03 14:38:26 UTC-05:00
 description: ''
 link: ''
 slug: buttermilk-brined-fried-chicken-and-biscuits
-tags: [fried, chicken, biscuits, buttermilk]
+tags: [fried, chicken, biscuits, buttermilk, youtube, seriouseats]
 title: Buttermilk Brined Fried Chicken and Biscuits
 type: text
 ---
 My roommate recently watched J. Kenji Lopez-Alt's [video on buttermilk brined fried ckicken](https://www.youtube.com/watch?v=n5nKYqvu29w) which is [adapted from his book](https://www.seriouseats.com/the-food-lab-southern-fried-chicken-recipe).
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/n5nKYqvu29w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 He offered to cook everything if I broke down the whole chicken. 
 I really enjoy breaking down whole chickens so that I can save the carcass for stock.
 I even asked for a nice boning knife one Christmas solely for processing whole chicken and fish.
