@@ -4,7 +4,7 @@ date: 2022-04-25 21:12:48 UTC-05:00
 description: ''
 link: ''
 slug: schmaltz-garlic-confit-and-matzo-ball-soup
-tags: ''
+tags: [schmaltz, garlic, pantry-raid, chicken, fat, matzo, soup, dill, carrot, seriouseats, confit]
 title: Schmaltz, Garlic Confit, and Matzo Ball Soup
 type: text
 ---

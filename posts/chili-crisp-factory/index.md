@@ -4,7 +4,7 @@ date: 2022-04-10 19:45:08 UTC-05:00
 description: ''
 link: ''
 slug: chili-crisp-factory
-tags: [spicy, chili, crisp, factory]
+tags: [spicy, chili, crisp, factory, seriouseats, friends]
 title: Chili Crisp Factory
 type: text
 ---

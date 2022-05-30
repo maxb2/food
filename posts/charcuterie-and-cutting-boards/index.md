@@ -4,7 +4,7 @@ date: 2022-04-20 21:09:11 UTC-05:00
 description: ''
 link: ''
 slug: charcuterie-and-cutting-boards
-tags: ''
+tags: [charcuterie, woodworking, work, retreat]
 title: Charcuterie and Cutting Boards
 type: text
 ---
