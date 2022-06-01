@@ -4,7 +4,7 @@ date: 2022-03-19 09:37:39 UTC-05:00
 description: ''
 link: ''
 slug: spicy-chili-crisp-gifts
-tags: [spicy, chili, crisp, gift, youtube, seriouseats]
+tags: [spicy, chili, crisp, gift, Sichuan, youtube, seriouseats]
 title: Spicy Chili Crisp Gifts
 type: text
 ---
