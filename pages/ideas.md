@@ -10,6 +10,7 @@ type: text
 ---
 Here is a wishlist of things to make.
 
+## Miscellaneous
 - Dolmas
     - <https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/>
     - <https://www.thespruceeats.com/dolmas-stuffed-grape-leaves-1001123>
@@ -36,3 +37,20 @@ Here is a wishlist of things to make.
 - [Korean-Style Fire Chicken (Buldak) With Cheese](https://www.seriouseats.com/korean-style-fire-chicken-buldak-with-cheese)
 - [Masa Ball Soup (Corn Dumplings in Chicken Soup)](https://www.seriouseats.com/masa-ball-soup-corn-matzo-recipe)
 - [Creamy Garlic Chicken Spanakopita Skillet](https://www.seriouseats.com/one-pot-chicken-spanakopita-skillet-pie-recipe)
+
+## [Recipes from the World of Tolkien](https://www.amazon.com/Recipes-World-Tolkien-Inspired-Legends/dp/1645174425)
+
+- Gooseberry and Rosemary Jelly, pg. 48
+- Cram (seeded flatbread), pg. 53
+- Dwarven Spiced Pickled Beets, pg. 60
+- Ale, Apple, and Mustard Chutney, pg. 65
+- Walnut, Pear and Green Leaf Salad, pg. 77
+- Easterling Tea-Marinated Trout, pg. 92
+- Beet Tarte Tatin with Goat Cheese, pg. 106
+- Bilbo's Seed-cake, pg. 110
+- Strawberry and Lavender Shortcakes, pg. 114
+- Squash and Goat Cheese Bake, pg. 136
+- The Green Dragon's Mushroom and Leek Pie, pg. 137
+- Spinach and Tomato Dahl, pg. 140
+- Turin Turambar Tarragon Chicken, pg. 141
+- Juniper Roast Lamb, pg. 152
