@@ -14,6 +14,9 @@ Here is a wishlist of things to make.
 - Dolmas
     - <https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/>
     - <https://www.thespruceeats.com/dolmas-stuffed-grape-leaves-1001123>
+- [Tea Smoking](https://www.seriouseats.com/seriously-asian-tea-smoking-meat-fish-chicken)
+- [Tandoori Chicken — Grilled or Broiled](https://www.youtube.com/watch?v=GcWYXQ5vILs)
+- [Chicken Tikka Masala](https://www.youtube.com/watch?v=gstyp2ZgZ1s) (Uses leftover tandoori chicken)
 - [One-Pot Chicken Jardiniere](https://www.youtube.com/watch?v=ahelFHU1WBE)
 - [Hot Pot 2 ways](https://www.youtube.com/watch?v=EApkyOBewEw)
 - [Mediterranean Meal Prep](https://www.youtube.com/watch?v=Gq_Mzs-mxJY)
