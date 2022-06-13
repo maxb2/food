@@ -4,7 +4,7 @@ date: 2022-06-12 20:16:47 UTC-05:00
 description: ''
 link: ''
 slug: shrimp-etouffee
-tags: [shrimp, etouffee, Cajun, Creole, rice, roux, pepper, celery, butter, cayenne, homegrown, seriouseats]
+tags: [shrimp, etouffee, Cajun, Creole, rice, roux, pepper, celery, butter, cayenne, homegrown, Serious Eats]
 title: Shrimp Étouffée
 type: text
 ---

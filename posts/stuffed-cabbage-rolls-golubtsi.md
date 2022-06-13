@@ -4,7 +4,7 @@ date: 2022-05-29 17:50:18 UTC-05:00
 description: ''
 link: ''
 slug: stuffed-cabbage-rolls-golubtsi
-tags: [stuffed, cabbage, golubtsi, deer, beef, rice, tomato, carrot, meatloaf, beef, rice, youtube, pantry-raid, helen-rennie]
+tags: [stuffed, cabbage, golubtsi, deer, beef, rice, tomato, carrot, meatloaf, beef, rice, youtube, pantry-raid, Helen Rennie]
 title: Stuffed Cabbage Rolls (Golubtsi)
 type: text
 ---

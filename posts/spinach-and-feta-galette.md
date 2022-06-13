@@ -4,7 +4,7 @@ date: 2022-05-15 13:06:15 UTC-05:00
 description: ''
 link: ''
 slug: spinach-and-feta-galette
-tags: [spinach, feta, pie, galette, pizza, herbs, tarragon, youtube, tzatziki, helen-rennie]
+tags: [spinach, feta, pie, galette, pizza, herbs, tarragon, youtube, tzatziki, Helen Rennie]
 title: Spinach and Feta Galette
 type: text
 ---

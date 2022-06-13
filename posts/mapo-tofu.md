@@ -4,7 +4,7 @@ date: 2022-05-30 08:30:38 UTC-05:00
 description: ''
 link: ''
 slug: mapo-tofu
-tags: [Sichuan, tofu, beef, rice, spicy, ginger, garlic, seriouseats, pantry-raid]
+tags: [Sichuan, tofu, beef, rice, spicy, ginger, garlic, Serious Eats, pantry-raid]
 title: Mapo Tofu
 type: text
 ---

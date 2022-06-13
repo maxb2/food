@@ -4,7 +4,7 @@ date: 2022-05-23 19:44:12 UTC-05:00
 description: ''
 link: ''
 slug: korean-cheese-corn
-tags: [korean, corn, cheese, miso, bar, appetizer, gochujang, seriouseats, meh, pantry-raid]
+tags: [korean, corn, cheese, miso, bar, appetizer, gochujang, Serious Eats, meh, pantry-raid]
 title: Korean Cheese Corn
 type: text
 ---
