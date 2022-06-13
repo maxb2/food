@@ -18,6 +18,7 @@ Here is a wishlist of things to make.
 - [Tandoori Chicken — Grilled or Broiled](https://www.youtube.com/watch?v=GcWYXQ5vILs)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=gstyp2ZgZ1s) (Uses leftover tandoori chicken)
 - [One-Pot Chicken Jardiniere](https://www.youtube.com/watch?v=ahelFHU1WBE)
+- [The Wok: Chinese Scrambled Eggs With Tomato | Kenji's Cooking Show](https://www.youtube.com/watch?v=gb37bRsBxZA)
 - [Smashed Falafel (no deep-frying necessary)](https://www.youtube.com/watch?v=8bQjoGat0sM)
 - [Testing the Most Viral Pizza Recipes on Tik Tok](https://www.youtube.com/watch?v=-Byx_ndKeHk)
 - [Hot Pot 2 ways](https://www.youtube.com/watch?v=EApkyOBewEw)
