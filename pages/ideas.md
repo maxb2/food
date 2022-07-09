@@ -18,6 +18,7 @@ Here is a wishlist of things to make.
     - <https://www.thespruceeats.com/dolmas-stuffed-grape-leaves-1001123>
 - [White & dark chocolate mousse — no raw eggs](https://www.youtube.com/watch?v=lR8nisZUXWM)
 - [Tea Smoking](https://www.seriouseats.com/seriously-asian-tea-smoking-meat-fish-chicken)
+- [Irish Tea Brack](https://www.seriouseats.com/irish-tea-brack-tea-soaked-raisin-bread-recipe)
 - [Tandoori Chicken — Grilled or Broiled](https://www.youtube.com/watch?v=GcWYXQ5vILs)
 - [Chicken Tikka Masala](https://www.youtube.com/watch?v=gstyp2ZgZ1s) (Uses leftover tandoori chicken)
 - [One-Pot Chicken Jardiniere](https://www.youtube.com/watch?v=ahelFHU1WBE)
