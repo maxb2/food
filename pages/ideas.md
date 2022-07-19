@@ -11,7 +11,6 @@ type: text
 Here is a wishlist of things to make.
 
 ## Miscellaneous
-- [Sheet Pan Pasta](https://www.youtube.com/watch?v=azNHrhGoOrc)
 - [Sheet Pan Shrimp](https://www.youtube.com/watch?v=L-mA3UCTDPI)
 - Dolmas
     - <https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/>
