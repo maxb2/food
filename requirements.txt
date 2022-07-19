@@ -1,3 +1,6 @@
 setuptools
 wheel
 Nikola[extras]
+# TODO: followup on this pin
+# https://github.com/getnikola/nikola/issues/3635
+markdown==3.3
