@@ -11,6 +11,7 @@ type: text
 Here is a wishlist of things to make.
 
 ## Miscellaneous
+- [Lomo Saltado](https://www.seriouseats.com/lomo-saltado-peruvian-stir-fried-beef-with-onion-tomatoes-and-french-fries)
 - [Sheet Pan Shrimp](https://www.youtube.com/watch?v=L-mA3UCTDPI)
 - Dolmas
     - <https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/>
