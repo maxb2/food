@@ -12,10 +12,10 @@ Here is a wishlist of things to make.
 
 ## Miscellaneous
 - [Lomo Saltado](https://www.seriouseats.com/lomo-saltado-peruvian-stir-fried-beef-with-onion-tomatoes-and-french-fries)
-- [Sheet Pan Shrimp](https://www.youtube.com/watch?v=L-mA3UCTDPI)
 - Dolmas
     - <https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/>
     - <https://www.thespruceeats.com/dolmas-stuffed-grape-leaves-1001123>
+    - <https://www.seriouseats.com/dawali-recipe-6503524>
 - [White & dark chocolate mousse — no raw eggs](https://www.youtube.com/watch?v=lR8nisZUXWM)
 - [Tea Smoking](https://www.seriouseats.com/seriously-asian-tea-smoking-meat-fish-chicken)
 - [Irish Tea Brack](https://www.seriouseats.com/irish-tea-brack-tea-soaked-raisin-bread-recipe)
@@ -29,7 +29,6 @@ Here is a wishlist of things to make.
 - [Mediterranean Meal Prep](https://www.youtube.com/watch?v=Gq_Mzs-mxJY)
 - [Coconut and Ají Amarillo–Braised Chicken Recipe](https://www.seriouseats.com/braised-chicken-aji-amarillo-coconut-milk-recipe)
 - [Easy Cioppino](https://recipesage.com/#/recipe/e7304a5b-1a59-49fa-9abc-886745bc8a85?version=v2.8.0&usp=sharing)
-- [Peruvian-Style Grilled-Chicken Sandwiches With Spicy Green Sauce](https://www.seriouseats.com/peruvian-style-grilled-chicken-sandwiches-recipe)
 - [Skillet Moussaka Recipe (Low-Carb, Gluten-Free)](https://lowcarbyum.com/skillet-moussaka/)
 - [Sous Vide 101: Duck Breast](https://www.seriouseats.com/sous-vide-101-duck-breast-recipe)
 - [Sous Vide Duck Confit](https://www.seriouseats.com/sous-vide-duck-confit-recipe)

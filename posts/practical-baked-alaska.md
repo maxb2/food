@@ -4,7 +4,7 @@ date: 2022-07-04 07:06:52 UTC-05:00
 description: ''
 link: ''
 slug: practical-baked-alaska
-tags: [dessert, chocolate, cake, ice cream, italian meringue, youtube, Adam Ragusea]
+tags: [dessert, chocolate, cake, ice cream, italian meringue, Youtube, Adam Ragusea]
 title: Practical Baked Alaska
 type: text
 ---

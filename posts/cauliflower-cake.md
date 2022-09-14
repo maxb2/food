@@ -4,7 +4,7 @@ date: 2022-07-23 13:52:54 UTC-05:00
 description: ''
 link: ''
 slug: cauliflower-cake
-tags: [cauliflower, onion, cake, eggs, rosemary, Serious Eats, pantry-raid]
+tags: [cauliflower, onion, cake, eggs, rosemary, Serious Eats,  pantry raid]
 title: Cauliflower Cake
 type: text
 ---

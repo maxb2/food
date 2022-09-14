@@ -4,7 +4,7 @@ date: 2022-07-17 21:35:39 UTC-05:00
 description: ''
 link: ''
 slug: thai-tea-cake-and-coconut-custard
-tags: [Thai, tea, cake, coconut, custard, Serious Eats, pantry-raid]
+tags: [Thai, tea, cake, coconut, custard, Serious Eats,  pantry raid]
 title: Thai Tea Cake and Coconut Custard
 type: text
 ---

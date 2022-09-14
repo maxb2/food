@@ -4,7 +4,7 @@ date: 2022-07-09 18:19:01 UTC-05:00
 description: ''
 link: ''
 slug: pumpkin-sweet-swirl-buns
-tags: [pumpkin, hazelnut, Serious Eats, pantry-raid]
+tags: [pumpkin, hazelnut, Serious Eats,  pantry raid]
 title: Pumpkin Sweet Swirl Buns
 type: text
 ---

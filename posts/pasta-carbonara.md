@@ -4,7 +4,7 @@ date: 2022-07-21 22:22:50 UTC-05:00
 description: ''
 link: ''
 slug: pasta-carbonara
-tags: [egg yolk, pasta, pork belly, parmesan, pecorino romano, black pepper, pantry-raid, Italian]
+tags: [egg yolk, pasta, pork belly, parmesan, pecorino romano, black pepper,  pantry raid, Italian]
 title: Pasta Carbonara
 type: text
 ---

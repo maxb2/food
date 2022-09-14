@@ -4,7 +4,7 @@ date: 2022-07-17 21:36:06 UTC-05:00
 description: ''
 link: ''
 slug: fennel-and-bok-choy-sheet-pan-pasta
-tags: [fennel, bok choy, sheet pan, pasta, youtube, Adam Ragusea]
+tags: [fennel, bok choy, sheet pan, pasta, Youtube, Adam Ragusea]
 title: Fennel and Bok Choy Sheet Pan Pasta
 type: text
 ---

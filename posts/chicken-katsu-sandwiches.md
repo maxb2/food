@@ -4,7 +4,7 @@ date: 2022-03-07 20:34:39 UTC-06:00
 description: ''
 link: ''
 slug: chicken-katsu-sandwiches
-tags: [chicken, katsu, coleslaw, sandwich, spicy, youtube]
+tags: [chicken, katsu, coleslaw, sandwich, spicy, Youtube]
 title: Chicken Katsu Sandwiches
 type: text
 ---

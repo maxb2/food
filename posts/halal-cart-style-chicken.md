@@ -4,7 +4,7 @@ date: 2022-03-09 12:17:18 UTC-06:00
 description: ''
 link: ''
 slug: halal-cart-style-chicken-and-tzatziki
-tags: [Mediterranean, chicken, rice, tzatziki, tabouli, condiment, salad, Serious Eats, The Mediterranean Dish, youtube, Food Wishes]
+tags: [Mediterranean, chicken, rice, tzatziki, tabouli, condiment, salad, Serious Eats, The Mediterranean Dish, Youtube, Food Wishes]
 title: Halal Cart-Style Chicken and Tzatziki
 type: text
 ---

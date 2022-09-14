@@ -4,7 +4,7 @@ date: 2022-07-06 20:30:21 UTC-05:00
 description: ''
 link: ''
 slug: watermelon-gazpacho
-tags: [watermelon, gazpacho, soup, Serious Eats, pantry-raid]
+tags: [watermelon, gazpacho, soup, Serious Eats,  pantry raid]
 title: Watermelon Gazpacho
 type: text
 ---

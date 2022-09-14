@@ -4,7 +4,7 @@ date: 2022-06-09 08:43:25 UTC-05:00
 description: ''
 link: ''
 slug: deviled-egg-salad
-tags: [egg, salad, sandwiches, wraps, youtube, Adam Ragusea, homegrown, lettuce, capers, pickle, celery, mayo]
+tags: [egg, salad, sandwiches, wraps, Youtube, Adam Ragusea, homegrown, lettuce, capers, pickle, celery, mayo]
 title: Deviled Egg Salad
 type: text
 ---

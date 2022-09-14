@@ -4,7 +4,7 @@ date: 2022-07-17 21:36:37 UTC-05:00
 description: ''
 link: ''
 slug: homemade-klondike-bars
-tags: [ice cream, chocolate, stand mixer, meringue, Serious Eats, Stella Parks, pantry-raid, friends]
+tags: [ice cream, chocolate, stand mixer, meringue, Serious Eats, Stella Parks,  pantry raid, friends]
 title: Homemade Klondike Bars
 type: text
 ---

@@ -4,7 +4,7 @@ date: 2022-05-01 13:03:54 UTC-05:00
 description: ''
 link: ''
 slug: carrot-cake-jam-and-cheesecake
-tags: [carrot, cake, jam, preserves, walnut, raisin, cheesecake, sous-vide, pectin, Serious Eats, goodeats, pantry-raid]
+tags: [carrot, cake, jam, preserves, walnut, raisin, cheesecake, sous-vide, pectin, Serious Eats, goodeats,  pantry raid]
 title: Carrot Cake Jam and Cheesecake
 type: text
 ---

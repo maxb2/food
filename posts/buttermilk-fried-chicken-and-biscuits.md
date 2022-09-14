@@ -4,7 +4,7 @@ date: 2022-04-03 14:38:26 UTC-05:00
 description: ''
 link: ''
 slug: buttermilk-brined-fried-chicken-and-biscuits
-tags: [fried, chicken, biscuits, buttermilk, youtube, Serious Eats]
+tags: [fried, chicken, biscuits, buttermilk, Youtube, Serious Eats]
 title: Buttermilk Brined Fried Chicken and Biscuits
 type: text
 ---
