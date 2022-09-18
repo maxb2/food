@@ -11,6 +11,7 @@ type: text
 Here is a wishlist of things to make.
 
 ## Miscellaneous
+- [How to Make Egg, Kimchi, and Avocado Sandwiches](https://www.youtube.com/watch?v=tY5OmTcPatQ)
 - [Lomo Saltado](https://www.seriouseats.com/lomo-saltado-peruvian-stir-fried-beef-with-onion-tomatoes-and-french-fries)
 - Dolmas
     - <https://www.allrecipes.com/recipe/25310/dolmas-stuffed-grape-leaves/>
