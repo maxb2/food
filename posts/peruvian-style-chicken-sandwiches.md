@@ -9,7 +9,7 @@ title: Peruvian Style Chicken Sandwiches
 type: text
 ---
 
-My roommate always wants to make fried chicken sandwiches.
+My roommate always wants to make [fried chicken sandwiches](link://slug/chicken-katsu-sandwiches).
 This time I wanted to switch it up and make something a little different, [Peruvian-Style Grilled-Chicken Sandwiches With Spicy Green Sauce](https://www.seriouseats.com/peruvian-style-grilled-chicken-sandwiches-recipe) and grilled vegetables.
 
 I went to a hardware store and bought the tiniest charcoal grill since my patio is also tiny.
