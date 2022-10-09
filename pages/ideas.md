@@ -11,6 +11,7 @@ type: text
 Here is a wishlist of things to make.
 
 ## Miscellaneous
+- [How to Make Lion's Head Meatballs (Shīzi Tóu)](https://www.youtube.com/watch?v=OhDdG6WZbZ8)
 - [Invisible Apple Cake](https://www.seriouseats.com/gateau-invisible)
 - [Lomo Saltado](https://www.seriouseats.com/lomo-saltado-peruvian-stir-fried-beef-with-onion-tomatoes-and-french-fries)
 - Dolmas
