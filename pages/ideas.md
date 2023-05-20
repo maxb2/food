@@ -11,6 +11,11 @@ type: text
 Here is a wishlist of things to make.
 
 ## Miscellaneous
+- [Cheesy broiled sheet pan pasta with vegetables](https://www.youtube.com/watch?v=XR0VKqfSHBk)
+- [How to Make Poulet au Vinaigre (Chicken with Vinegar)](https://www.youtube.com/watch?v=jHSWvA2UlQk)
+- [Apple Cider Doughnut Cake](https://www.seriouseats.com/apple-cider-doughnut-cake-recipe)
+- [Apple Cake](https://www.youtube.com/watch?v=kfpzWVYVP1s)
+- [Earl Grey Chiffon Cake](https://www.youtube.com/watch?v=2IqQkouHYag)
 - [How to Make Vospov Kofte (Red Lentil Kofte)](https://www.youtube.com/watch?v=C8Nv0ZpUVII)
 - [How to Make Lion's Head Meatballs (Shīzi Tóu)](https://www.youtube.com/watch?v=OhDdG6WZbZ8)
 - [Invisible Apple Cake](https://www.seriouseats.com/gateau-invisible)
